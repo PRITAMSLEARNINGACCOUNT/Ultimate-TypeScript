@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Any_Value = "Anything Can Be Stored";
+Any_Value = 90;
+var StoreAnything;
+StoreAnything = "This is already is type of any";
+console.log("Before Changing The Value ".concat(StoreAnything));
+StoreAnything = false;
+console.log("After Changing The Value ".concat(StoreAnything));
+console.log("This is an value with explicitly declared any type ".concat(Any_Value));

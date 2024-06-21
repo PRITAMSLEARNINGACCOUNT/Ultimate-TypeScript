@@ -1,0 +1,14 @@
+{
+  "name": "production_level_typescript",
+  "version": "1.0.0",
+  "description": "This is a typescript production level code test",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "pritamstech",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
